@@ -9,6 +9,39 @@ Here is a picture of the finished robot:
 
 I also have a google drive video of the robot in action: https://drive.google.com/file/d/1AiMfbfdPu-Ufo2i7-Uf3s8SzfJ7lCihy/view?usp=sharing
 
+# Materials Used for the Arduino Controlled Robot Project
+
+This section outlines the materials used for the Arduino-controlled robot project, providing an overview of the key components and hardware involved.
+
+## Materials
+
+1. **Arduino Mega:** The central microcontroller responsible for processing and executing commands to control various robot functionalities.
+
+2. **Motor Driver L298N:** A motor driver module used to control the speed and direction of the motors, facilitating precise movement.
+
+3. **Bread Board:** A prototyping board for creating temporary electrical connections and testing circuit designs.
+
+4. **Bluetooth Module HC05:** Enables wireless communication between the robot and a smartphone app, allowing remote control.
+
+5. **Motor and Wheels (4):** Four motors and wheels for the robot's mobility and navigation.
+
+6. **Styrofoam:** Used for structural elements or as a lightweight material for various components.
+
+7. **Medium Servo Motor MG995 (4):** Servo motors used for controlling the robotic claws and other mechanisms requiring precise movements.
+
+8. **Medium Servo Motor MG996 (2):** Additional servo motors for specific tasks or movements within the robot.
+
+9. **Metal Robotic Arm (2):** Robotic arms made of metal, potentially used for more robust and intricate tasks.
+
+10. **Jump Wires:** Essential for creating electrical connections on the breadboard and ensuring proper signal transmission.
+
+11. **Switch (2):** Switches used for turning specific functionalities on or off, adding a control element to the robot.
+
+12. **Wifi Smart Camera:** A camera module with Wi-Fi capabilities, potentially used for live streaming or capturing images.
+
+13. **Power Bank:** Provides a portable power source for the Arduino and other electronic components, ensuring mobility.
+
+14. **Plastic Board:** A versatile material for creating a base or housing for the robot, providing a structural foundation.
 
 ## Code Overview for "Nights_Watch_main.io"
 
