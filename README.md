@@ -5,7 +5,7 @@
 This repository contains the Arduino code for controlling a robot equipped with claws for precise object manipulation, wheels for navigation, live camera streaming, and a sonar for movement detection. The robot's movements can be controlled using a smartphone app (utilized Blynk IoT).
 
 Here is a picture of the finished robot:
-https://github.com/ruwayd99/SmartBot-Arduino-controlled-robot/blob/main/Robot%20picture.JPG 
+![Alt text](Robot_picture.JPG)
 
 ## Code Overview for "Nights_Watch_main.io"
 
