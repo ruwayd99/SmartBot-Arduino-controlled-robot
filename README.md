@@ -7,6 +7,8 @@ This repository contains the Arduino code for controlling a robot equipped with 
 Here is a picture of the finished robot:
 ![Robot picture](https://github.com/ruwayd99/SmartBot-Arduino-controlled-robot/assets/109923578/3f649b2b-a899-4de3-8cff-d4bb1ff08376)
 
+I also have a google drive video of the robot in action: https://drive.google.com/file/d/1AiMfbfdPu-Ufo2i7-Uf3s8SzfJ7lCihy/view?usp=sharing
+
 
 ## Code Overview for "Nights_Watch_main.io"
 
